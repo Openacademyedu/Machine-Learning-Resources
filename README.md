@@ -2,7 +2,12 @@
 
 ### Libraries
 
+- [animatplot](https://github.com/t-makaro/animatplot)
+- [Auto-Keras](https://github.com/jhfjhfj1/autokeras)
 - [fastai](https://github.com/fastai/fastai/)
+- [Finetune](https://github.com/IndicoDataSolutions/finetune)
+- [GluonNLP](https://github.com/dmlc/gluon-nlp)
+- [MLflow](https://github.com/mlflow/mlflow)
 - [textacy](https://github.com/chartbeat-labs/textacy)
 - [pycobra](https://github.com/bhargavvader/pycobra)
 - [Termgraph](https://github.com/mkaz/termgraph)
